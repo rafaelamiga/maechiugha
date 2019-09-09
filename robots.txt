@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uchunohcof.charlestark.com/sitemap.xml
